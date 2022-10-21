@@ -4,7 +4,7 @@
 - 提升团队效率；
 - 减少交易风险；
 
-## section 1 : Existing Project: -- enhancement
+## SECTION 1 : Existing Project: -- enhancement
 ### Phase i 
 - 字段的增加优化 和 minor bugs
 	>maintain: 50k RMB
@@ -14,7 +14,7 @@
 	>maintain:50~100k RMB
 	>license: 50k RMB
 
-## section 2 : Researching Project:
+## SECTION 2 : Researching Project:
 ### phase iii
 -	**企业信息:**
 -	**买数据:**
@@ -52,7 +52,7 @@ B --> C(Operation)
 			**Placement**: (RFP\final RI Terms\Experience data & rate level table)
 			**Operation**: (Slip\Bordereau)
 		
-### section 3: Others : use technology to helps teams;
+### SECTION 3: Others : use technology to helps teams;
 	sample: 发件人组；
 	数据清洗的自动化流程以及需求梳理 ;
 	数据安全路径:bordereau\理赔材料的脱敏;
