@@ -4,7 +4,7 @@
 - 提升团队效率；
 - 减少交易风险；
 
-## SECTION 1 : Existing Project: -- enhancement
+## SECTION 1 :  Projects Existing: -- enhancement
 ### Phase i 
 - 字段的增加优化 和 minor bugs
 	>maintain: 50k RMB
@@ -14,7 +14,7 @@
 	>maintain:50~100k RMB
 	>license: 50k RMB
 
-## SECTION 2 : Researching Project:
+## SECTION 2 : Project Researching :
 ### phase iii
 -	**企业 投保风险识别：**
 	> 通过外部企业信息接口汇聚信息，结合银行的一些企业风险模型，通过打标后通过机器学习，输出给梧桐树等其他；
