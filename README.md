@@ -64,7 +64,7 @@
 	>**Operation**: (Slip\Bordereau)
 		
 ### SECTION 3: Others : use technology to helps teams;
-	收件人组等；
-	数据清洗的自动化流程以及需求梳理 ;
-	数据清洗流程规范化和数据问题管理 ;
-	数据安全路径:bordereau\理赔材料的脱敏等;
+	- 收件人组等；
+	- 数据清洗的自动化流程以及需求梳理 ;
+	- 数据清洗流程规范化和数据问题管理 ;
+	- 数据安全路径:bordereau\理赔材料的脱敏等;
