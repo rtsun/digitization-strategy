@@ -20,13 +20,15 @@
 	> 通过外部企业信息接口汇聚信息，结合银行的一些企业风险模型，通过打标后通过机器学习，输出给梧桐树等其他；
 -	**买数据:**
 	> 行业/公开数据 
+	  国家卫生健康委员会、国家医疗保障局、中国保险业协会数据、CIA World Factbook、世界卫生组织委员会、世界银行、人民银行数据
 	> 百万医疗数据、团险数据等
 	> -->vendor: 通联、万得、朝阳永旭 ;--> Aon H&B team；
 -	**数据预测->精算评估自动化:**
 	> CI 经验分析 -- in progress
 	> MM 经验分析 -- to be researched, more data to be collected
 -	**MKT:**
-		[咨询公司](https://pdf.dfcfw.com/pdf/H3_AP202101071448331614_1.pdf?1610032066000.pdf) & internal report
+		[咨询公司](https://pdf.dfcfw.com/pdf/H3_AP202101071448331614_1.pdf?1610032066000.pdf)  --> survey
+		internal report --> dashboard development
 	
 -	**CRM system:**   for 信息共享, No 枷锁； 
 >**1.  parnters (insurer / reinsurer /channel) management**
