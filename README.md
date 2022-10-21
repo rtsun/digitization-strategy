@@ -30,9 +30,9 @@
 
 	> MM 经验分析 -- to be researched, more data to be collected
 -	**MKT:**
-		[咨询公司](https://pdf.dfcfw.com/pdf/H3_AP202101071448331614_1.pdf?1610032066000.pdf)  --> survey
+	> [咨询公司](https://pdf.dfcfw.com/pdf/H3_AP202101071448331614_1.pdf?1610032066000.pdf)  --> survey
 		
-		internal report --> dashboard development
+	> internal report --> dashboard development
 	
 -	**CRM system:**   for 信息共享, No 枷锁； 
 	>**1.  parnters (insurer / reinsurer /channel) management**
