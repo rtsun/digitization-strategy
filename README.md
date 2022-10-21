@@ -43,7 +43,7 @@
 
 	|Team      | Function|
 	|----------|----------|
-	|BD        |  产品描述和属性tag |
+	|BD        |  产品描述和属性(tag) |
 	|Placement |根据tag推荐RFP模板和再保市场|
 	|          |system track record mail / key stage|
 	|          |remind|
