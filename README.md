@@ -15,7 +15,7 @@
 	>license: 50k RMB
 
 ## SECTION 2 : Project Researching :
-### phase iii
+### Phase iii
 -	**企业 投保风险识别：**
 	> 通过外部企业信息接口汇聚信息，结合银行的一些企业风险模型，通过打标后通过机器学习，输出给梧桐树等其他；
 -	**买数据:**
