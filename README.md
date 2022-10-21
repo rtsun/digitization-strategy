@@ -31,33 +31,33 @@
 		internal report --> dashboard development
 	
 -	**CRM system:**   for 信息共享, No 枷锁； 
->**1.  parnters (insurer / reinsurer /channel) management**
->业务偏好，喜欢做啥不喜欢做啥(tag) & key person/contact
+	>**1.  parnters (insurer / reinsurer /channel) management**
+	>业务偏好，喜欢做啥不喜欢做啥(tag) & key person/contact
 
->**2. 业务机会(pipeline & treaty)管理：**
-```mermaid
-graph LR
-A[BD] --> B((Placement))
-B --> C(Operation)
-```
+	>**2. 业务机会(pipeline & treaty)管理：**
+	```mermaid
+	graph LR
+	A[BD] --> B((Placement))
+	B --> C(Operation)
+	```
 
-|Team      | Function|
-|----------|----------|
-|BD        |  产品描述和属性tag |
-|Placement |根据tag推荐RFP模板和再保市场|
-|          |system track record mail / key stage|
-|          |remind|
-|Operation |treaty information(合约日期等)|
-|          |sales volume record;|
-|          |续期提醒;|
+	|Team      | Function|
+	|----------|----------|
+	|BD        |  产品描述和属性tag |
+	|Placement |根据tag推荐RFP模板和再保市场|
+	|          |system track record mail / key stage|
+	|          |remind|
+	|Operation |treaty information(合约日期等)|
+	|          |sales volume record;|
+	|          |续期提醒;|
 
->**3. documentation management**
+	>**3. documentation management**
 
->**BD**: (raw files: 产品需求、条款等)；
+	>**BD**: (raw files: 产品需求、条款等)；
 
->**Placement**: (RFP\final RI Terms\Experience data & rate level table)
+	>**Placement**: (RFP\final RI Terms\Experience data & rate level table)
 
->**Operation**: (Slip\Bordereau)
+	>**Operation**: (Slip\Bordereau)
 		
 ### SECTION 3: Others : use technology to helps teams;
 	收件人组等；
