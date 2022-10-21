@@ -54,7 +54,9 @@ B --> C(Operation)
 >**3. documentation management**
 
 >**BD**: (raw files: 产品需求、条款等)；
+
 >**Placement**: (RFP\final RI Terms\Experience data & rate level table)
+
 >**Operation**: (Slip\Bordereau)
 		
 ### SECTION 3: Others : use technology to helps teams;
