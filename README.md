@@ -31,6 +31,7 @@
 -	**CRM system:**   for 信息共享, No 枷锁； 
 >**1.  parnters (insurer / reinsurer /channel) management**
 >业务偏好，喜欢做啥不喜欢做啥(tag) & key person/contact
+
 >**2. 业务机会(pipeline & treaty)管理：**
 ```mermaid
 graph LR
