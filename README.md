@@ -16,14 +16,15 @@
 
 ## SECTION 2 : Researching Project:
 ### phase iii
--	**企业信息:**
+-	**企业 投保风险识别：**
+	> 通过外部企业信息接口汇聚信息，结合银行的一些企业风险模型，通过打标后通过机器学习，输出给梧桐树等其他；
 -	**买数据:**
-		行业/公开数据 
-		百万医疗数据等
-		-->vendor: 通联、万得、朝阳永旭；
+	> 行业/公开数据 
+	> 百万医疗数据、团险数据等
+	> -->vendor: 通联、万得、朝阳永旭 ;--> Aon H&B team；
 -	**数据预测->精算评估自动化:**
-		CI 经验分析 -- in progress
-		MM 经验分析 -- to be researched, more data to be collected
+	> CI 经验分析 -- in progress
+	> MM 经验分析 -- to be researched, more data to be collected
 -	**MKT:**
 		[咨询公司](https://pdf.dfcfw.com/pdf/H3_AP202101071448331614_1.pdf?1610032066000.pdf) & internal report
 	
@@ -53,6 +54,7 @@ B --> C(Operation)
 			**Operation**: (Slip\Bordereau)
 		
 ### SECTION 3: Others : use technology to helps teams;
-	sample: 发件人组；
+	收件人组等；
 	数据清洗的自动化流程以及需求梳理 ;
-	数据安全路径:bordereau\理赔材料的脱敏;
+	数据清洗流程规范化和数据问题管理 ;
+	数据安全路径:bordereau\理赔材料的脱敏等;
