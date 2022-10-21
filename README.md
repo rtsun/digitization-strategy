@@ -9,7 +9,7 @@
 - 字段的增加优化 和 minor bugs
 	>maintain: 50k RMB
 ### Phase ii
-- 新业务场景的加入，如：
+- 新业务场景的加入，如：比例分保->溢额/溢额比例：
 - 对内、对外定制化；
 	>maintain:50~100k RMB
 	>license: 50k RMB
